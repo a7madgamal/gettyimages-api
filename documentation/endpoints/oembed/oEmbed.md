@@ -76,4 +76,5 @@ Example response:
 2. Call SearchForImages to find images specifying the search is for embeddable images only, by adding the Filter property EmbedContentOnly (boolean) within the SearchForImagesRequestBody.
 3. Call oEmbed with each of the asset ids of the embeddable images that you wish to use.
 
-
+####3rd party packages (not supported or managed by gettyimages)
+1. [getty-embeddy npm package](https://www.npmjs.com/package/getty-embeddy)
